@@ -1,2 +1,2 @@
 # OnlineFan
-wirelessly controlled mini fanwith blynk
+wirelessly controlled mini fan with blynk server
